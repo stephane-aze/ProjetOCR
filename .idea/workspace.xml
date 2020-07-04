@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f21a6994-8bf6-4892-b179-596cfb76f756" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BDD/ProjetBDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BDD/ProjetBDD/src/main/java/com/esgi/bddtennis/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BDD/ProjetBDD/src/main/java/com/esgi/bddtennis/Tennis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BDD/ProjetBDD/src/test/java/RunFeatureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BDD/ProjetBDD/src/test/java/com/esgi/bddtennis/TennisStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BDD/ProjetBDD/src/test/resources/tennis.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CPP/example.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bowling/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bowling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bowling/src/main/java/BowlingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bowling/src/test/java/BowlingGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kata/src/main/java/AgeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kata/src/main/java/Bulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kata/src/main/java/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kata/src/main/java/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kata/src/main/java/LoggerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kata/src/main/java/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FigureDigits.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OCR.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/OCRTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/ArgsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/Roman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp/src/main/java/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp/src/main/java/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp/src/main/java/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp/src/test/java/CharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp/src/test/java/WarriorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Integration_continue/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Integration_continue/src/test/java/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JEE/Server/src/main/java/stephane/socket/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cpp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cpp/cpp.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cpp/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp/node.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp/node.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tp/tp.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tpTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tpTest/tpTest.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tpTest/tst_checkisnumber.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/hello.rb" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="projet" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/app.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/OCR.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/FileToParser.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/EntryOfFileTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/FileInterface.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/EntryOfFile.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/FileToParserTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#0#96#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/FigureDigits.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/parameters.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1">
+              <caret line="69" column="7" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/OCRTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/app.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/EntryOfFile.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/parameters.kt" />
+        <option value="$PROJECT_DIR$/src/test/java/EntryOfFileTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntryOfFileTest.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/FileToParser.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/FileInterface.kt" />
+        <option value="$PROJECT_DIR$/src/test/java/FileToParserTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FileToParserTest.kt" />
+        <option value="$PROJECT_DIR$/src/test/java/AppKtTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AppKtTest.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/AppKtTest.kt" />
+        <option value="$PROJECT_DIR$/OCR-test.txt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/FigureDigits.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/EntryOfFile.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/FileToParser.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/FileInterface.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/FileToParserTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/app.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/EntryOfFileTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/parameters.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/OCR.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/OCRTest.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="995" />
+    <option name="y" value="-25" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetOCR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetOCR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetOCR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetOCR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetOCR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetOCR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stephane\Documents\ESGI\4ALJ\Clean code\projetOCR" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stephane\Documents\ESGI\4ALJ\Clean code\projetOCR\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.OCRTest.shouldReturnFalseForCheckSum">
+    <configuration name="EntryOfFileTest.shouldReturnListDigits" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;EntryOfFileTest.shouldReturnListDigits&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FileToParserTest.shouldReturnAllLinesOfFile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;FileToParserTest.shouldReturnAllLinesOfFile&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OCRTest.shouldNotReturnValueFigure" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;OCRTest.shouldNotReturnValueFigure&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OCRTest.shouldReturnFalseForCheckSum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;OCRTest.shouldReturnFalseForCheckSum&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="projet.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.OCRTest.shouldReturnFalseForCheckSum" />
+        <item itemvalue="Gradle.EntryOfFileTest.shouldReturnListDigits" />
+        <item itemvalue="Gradle.FileToParserTest.shouldReturnAllLinesOfFile" />
+        <item itemvalue="Gradle.OCRTest.shouldNotReturnValueFigure" />
+        <item itemvalue="Kotlin.AppKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f21a6994-8bf6-4892-b179-596cfb76f756" name="Default Changelist" comment="" />
+      <created>1592666681851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592666681851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OCRTest_shouldWriteDigitIllegible - 2020.07.04 at 13h 04m 41s.xml">
+      <configuration name="OCRTest.shouldWriteDigitIllegible" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OCRTest_shouldWriteDigitError - 2020.07.04 at 13h 06m 34s.xml">
+      <configuration name="OCRTest.shouldWriteDigitError" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OCRTest - 2020.07.04 at 13h 07m 16s.xml">
+      <configuration name="OCRTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OCRTest - 2020.07.04 at 13h 13m 26s.xml">
+      <configuration name="OCRTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OCRTest_shouldNotReturnValueFigure - 2020.07.04 at 13h 14m 46s.xml">
+      <configuration name="OCRTest.shouldNotReturnValueFigure" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FileToParserTest_shouldReturnAllLinesOfFile - 2020.07.04 at 13h 43m 05s.xml">
+      <configuration name="FileToParserTest.shouldReturnAllLinesOfFile" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EntryOfFileTest_shouldReturnListDigits - 2020.07.04 at 13h 45m 37s.xml">
+      <configuration name="EntryOfFileTest.shouldReturnListDigits" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EntryOfFileTest_shouldReturnListDigits - 2020.07.04 at 13h 55m 14s.xml">
+      <configuration name="EntryOfFileTest.shouldReturnListDigits" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OCRTest_shouldReturnFalseForCheckSum - 2020.07.04 at 14h 18m 46s.xml">
+      <configuration name="OCRTest.shouldReturnFalseForCheckSum" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="OCRTest_shouldReturnFalseForCheckSum - 2020.07.04 at 14h 18m 47s.xml">
+      <configuration name="OCRTest.shouldReturnFalseForCheckSum" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.23825504" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20067114" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.23825504" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/projet$FileToParserTest_shouldReturnAllLinesOfFile.ic" NAME="FileToParserTest.shouldReturnAllLinesOfFile Coverage Results" MODIFIED="1592674698763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parameters.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileInterface.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EntryOfFile.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/app.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileToParser.kt" />
+    <entry file="file://$PROJECT_DIR$/OCR-test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/AppKtTest0.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/AppKtTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/FigureDigits.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/FileToParser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/parameters.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="69" column="7" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/FileInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/EntryOfFileTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/EntryOfFile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/app.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/FileToParserTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/OCR.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/OCRTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
