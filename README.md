@@ -5,6 +5,7 @@ Projet réalisé en kotlin (avec gradle), assurez-vous que votre environnement soi
 Avec un fichier principal app.kt qui se base sur le fichier OCR.txt à la racine du projet.
 Quelques tests ont été réalisé en JUnit.Pour les tests il y a un fichier OCR-test.txt.
 ## Remarques || Reflexion
+Pourquoi kotlin? Kotlin reprend les principes de java mais a plus d'avantages comme les data classes plus simple à manipuler avec moins de ligne de code. 
 J'ai décidé de créer des tables pour qu'ils correspondent au contexte(exemple: entrée du fichier, figure d'un nombre).
 J'ai aussi séparé en plusieurs fichiers comme kotlin est un peu différent du java, où j'ai nommé un fichier app.kt qui est le fichier principal avec son main et aussi un fichier parameters.kt qui contient quelques paramètres tel qu'une map.
 J'ai choisi de faire une map avec comme clé figure et value int.
